@@ -1,4 +1,4 @@
-
+#OLA PROJECT
 ---
 
 # 🧮 SQL Queries Solved
@@ -25,7 +25,7 @@ Below are the SQL analytics questions solved.
 - Ride Volume Over Time  
 - Booking Status Breakdown  
 
-"C:\Users\janha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-15 133624.png"
+<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133624.png'>
 ---
 
 ## 2️⃣ Vehicle Type Analysis
