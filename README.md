@@ -4,7 +4,7 @@
 # 🧮 SQL Queries Solved
 
 Below are the SQL analytics questions solved.  
-👉 The complete code is available in **ola_sql_queries.sql**.
+👉 The complete code is available in **ola.sql**.
 
 1. Retrieve all successful bookings  
 2. Find the average ride distance for each vehicle type  
@@ -30,7 +30,7 @@ Below are the SQL analytics questions solved.
 
 ## 2️⃣ Vehicle Type Analysis
 - Top 5 Vehicle Types by Ride Distance  
-
+<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133659.png'>
 
 
 ## 3️⃣ Revenue Insights
@@ -38,28 +38,21 @@ Below are the SQL analytics questions solved.
 - Top 5 Customers by Total Booking Value  
 - Ride Distance Distribution Per Day  
 
-📸 **Add Screenshot Here**  
-`![Revenue View](path_to_image)`
+<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133725.png'>
 
----
+
 
 ## 4️⃣ Cancellation Analysis
 - Cancelled Ride Reasons (Customers)  
 - Cancelled Ride Reasons (Drivers)  
 
-📸 **Add Screenshot Here**  
-`![Cancellation View](path_to_image)`
-
----
-
+<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133822.png'>
+  
 ## 5️⃣ Ratings Analysis
 - Driver Ratings Overview  
 - Customer Ratings Overview  
 
-📸 **Add Screenshot Here**  
-`![Ratings View](path_to_image)`
-
----
+<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133845.png'>
 
 # 🧰 Tech Stack
 
@@ -83,10 +76,5 @@ Below are the SQL analytics questions solved.
 # 📬 Contact
 
 **Janhavi Gaikwad**  
-📞 7796894520  
-📧 *(Add Email)*  
-🔗 *(LinkedIn/GitHub Profile)*
-
----
-
-⭐ *If you like this project, don't forget to star the repository!*
+7796894520  
+gaikwadjanhavi213@gmail.com
