@@ -24,21 +24,19 @@ Below are the SQL analytics questions solved.
 ## 1️⃣ Overall Overview
 - Ride Volume Over Time  
 - Booking Status Breakdown  
-
-<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133624.png'>
+>><a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133624.png'>
 
 
 ## 2️⃣ Vehicle Type Analysis
 - Top 5 Vehicle Types by Ride Distance  
-<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133659.png'>
+>><a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133659.png'>
 
 
 ## 3️⃣ Revenue Insights
 - Revenue by Payment Method  
 - Top 5 Customers by Total Booking Value  
 - Ride Distance Distribution Per Day  
-
-<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133725.png'>
+>><a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133725.png'>
 
 
 
@@ -51,8 +49,7 @@ Below are the SQL analytics questions solved.
 ## 5️⃣ Ratings Analysis
 - Driver Ratings Overview  
 - Customer Ratings Overview  
-
-<a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133845.png'>
+>><a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133845.png'>
 
 # 🧰 Tech Stack
 
