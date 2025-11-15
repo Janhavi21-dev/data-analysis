@@ -26,15 +26,12 @@ Below are the SQL analytics questions solved.
 - Booking Status Breakdown  
 
 <a href='https://github.com/Janhavi21-dev/data-analysis/blob/main/Screenshot%202025-11-15%20133624.png'>
----
+
 
 ## 2️⃣ Vehicle Type Analysis
 - Top 5 Vehicle Types by Ride Distance  
 
-📸 **Add Screenshot Here**  
-`![Vehicle Type](path_to_image)`
 
----
 
 ## 3️⃣ Revenue Insights
 - Revenue by Payment Method  
