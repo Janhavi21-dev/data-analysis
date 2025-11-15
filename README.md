@@ -25,7 +25,7 @@ Below are the SQL analytics questions solved.
 - Ride Volume Over Time  
 - Booking Status Breakdown  
 
-<a href="C:\Users\janha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-15 133624.png">
+"C:\Users\janha\OneDrive\Pictures\Screenshots\Screenshot 2025-11-15 133624.png"
 ---
 
 ## 2️⃣ Vehicle Type Analysis
